@@ -1,4 +1,4 @@
-Ongoing project, will be updating it. and final website will be done on 6-8-2024, as a part of internship at websatck academy here is the schedule:
+
 	WSA Full Stack Web Development Internship Schedule		
 Week	Day	Topics	Sub-Topics
 1	1	Introduction to full stack	Intro to FullStack? 
